@@ -124,7 +124,7 @@ This form is used when the action is more important than who performs it, or whe
 
 \vspace{0.5cm}
 
-::: warning
+:::warning
 The passive form could not be used with intransitive verbs, which do not take a direct object. For example, "He sleeps" cannot be transformed into the passive form because there is no object to become the subject of the passive sentence.
 :::
 
