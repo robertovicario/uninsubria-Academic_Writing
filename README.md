@@ -1,4 +1,4 @@
-# Project
+# Academic Writing @ uninsubria
 
 ## License
 
